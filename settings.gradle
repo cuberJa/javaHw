@@ -4,3 +4,4 @@
 
 rootProject.name = 'javaHw'
 include 'L01-gradle'
+include 'L02-gradle'
