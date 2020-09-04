@@ -5,3 +5,4 @@
 rootProject.name = 'javaHw'
 include 'L01-gradle'
 include 'L02-gradle'
+include 'L03-generics'
