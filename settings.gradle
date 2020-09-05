@@ -5,4 +5,5 @@
 rootProject.name = 'javaHw'
 include 'L01-gradle'
 include 'L02-gradle'
-include 'L03-generics'
+include 'L03-generic_collections'
+include 'L04_collections'
