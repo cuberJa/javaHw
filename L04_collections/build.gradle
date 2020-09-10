@@ -10,3 +10,9 @@ dependencies {
     testImplementation 'org.openjdk.jmh:jmh-generator-annprocess'
     testImplementation 'org.junit.jupiter:junit-jupiter-engine'
 }
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
