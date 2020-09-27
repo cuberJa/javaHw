@@ -11,4 +11,5 @@ include 'L05_qa'
 include 'L06-reflection'
 include 'L07-gc'
 include 'L08-remoteDebug'
+include 'L09-byteCodes'
 
